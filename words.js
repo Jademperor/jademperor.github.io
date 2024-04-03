@@ -8,6 +8,10 @@ const words = [
     hint:"The best university in the world"
   },
   {
+    word:"zmylovexq",
+    hint:"Xq is more handsome than zmy"
+  },
+  {
     word: "meeting",
     hint: "Event in which people come together"
   },
@@ -58,10 +62,6 @@ const words = [
   {
     word: "statement",
     hint: "A declaration of something"
-  },
-  {
-    word: "second",
-    hint: "One-sixtieth of a minute"
   },
   {
     word: "second",
